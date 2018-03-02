@@ -1,0 +1,11 @@
+C:\Users\ricsh\source\repos\WebApiPaises\WebApiPaises\bin\Debug\netcoreapp2.0\WebApiPaises.deps.json
+C:\Users\ricsh\source\repos\WebApiPaises\WebApiPaises\bin\Debug\netcoreapp2.0\WebApiPaises.runtimeconfig.json
+C:\Users\ricsh\source\repos\WebApiPaises\WebApiPaises\bin\Debug\netcoreapp2.0\WebApiPaises.runtimeconfig.dev.json
+C:\Users\ricsh\source\repos\WebApiPaises\WebApiPaises\bin\Debug\netcoreapp2.0\WebApiPaises.dll
+C:\Users\ricsh\source\repos\WebApiPaises\WebApiPaises\bin\Debug\netcoreapp2.0\WebApiPaises.pdb
+C:\Users\ricsh\source\repos\WebApiPaises\WebApiPaises\obj\Debug\netcoreapp2.0\WebApiPaises.csprojResolveAssemblyReference.cache
+C:\Users\ricsh\source\repos\WebApiPaises\WebApiPaises\obj\Debug\netcoreapp2.0\WebApiPaises.csproj.CoreCompileInputs.cache
+C:\Users\ricsh\source\repos\WebApiPaises\WebApiPaises\obj\Debug\netcoreapp2.0\WebApiPaises.AssemblyInfoInputs.cache
+C:\Users\ricsh\source\repos\WebApiPaises\WebApiPaises\obj\Debug\netcoreapp2.0\WebApiPaises.AssemblyInfo.cs
+C:\Users\ricsh\source\repos\WebApiPaises\WebApiPaises\obj\Debug\netcoreapp2.0\WebApiPaises.dll
+C:\Users\ricsh\source\repos\WebApiPaises\WebApiPaises\obj\Debug\netcoreapp2.0\WebApiPaises.pdb
